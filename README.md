@@ -4,7 +4,7 @@
 
 
 - 🔭 **I’m currently working on:** CampusConnect
-- 🌱 **I’m currently learning:** Devops
+- 🌱 **I’m currently learning:** DevOps
 - 📫 **How to reach me:** aman.a.shukla183@gmail.com
 - 😄 **Pronouns:** Aman
 - ⚡ **Fun fact:** I love Tech but Tech Doesn't loves me.
