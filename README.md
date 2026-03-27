@@ -4,10 +4,10 @@
 
 
 - 🔭 **I’m currently working on:** CampusConnect
-- 🌱 **I’m currently learning:** DevOps
+- 🌱 **I’m currently learning:** SAP ABAP 
 - 📫 **How to reach me:** aman.a.shukla183@gmail.com
-- 😄 **Pronouns:** Aman
-- ⚡ **Fun fact:** I love Tech but Tech Doesn't loves me.
+- 😄 **Pronouns:** He...
+- ⚡ **Fun fact:** yo ka hove?😄.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanShukla18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
