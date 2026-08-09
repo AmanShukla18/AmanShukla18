@@ -4,7 +4,7 @@
 
 
 - 🔭 **I’m currently working on:** TaskFlow API
-- 🌱 **I’m currently learning:** C++  
+- 🌱 **I’m currently learning:** Agentic AI  
 - 📫 **How to reach me:** aman.a.shukla183@gmail.com
 - 😄 **Pronouns:** He...
 - ⚡ **Fun fact:** yo ka hove?😄.
