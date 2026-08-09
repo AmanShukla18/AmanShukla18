@@ -1,6 +1,6 @@
 ![logo](https://github.com/AmanShukla18/AmanShukla18/blob/main/banner.png)
 # 💫 Hi 👋, I'm Aman Shukla
-**A passionate Full Stack Developer || Vibe Coder || DevOps Engineer **
+**A passionate Full Stack Engineer || Agentic AI || DevOps **
 
 
 - 🔭 **I’m currently working on:** TaskFlow API
